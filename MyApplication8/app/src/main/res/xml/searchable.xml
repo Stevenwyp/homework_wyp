@@ -1,0 +1,5 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/王远朋_18990059"
+    android:hint="@string/please_input"
+    android:inputType="text"
+    android:searchButtonText="@string/search" />
